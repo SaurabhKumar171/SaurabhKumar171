@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/channel/UCn103sVO2aq474QnixVXn-Q) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]() 
 <p>
  <h4 align="center"><b>(click on the image, you will be taken to my universe)</b></h4>
   <h1 align="center"><b>Hello there, I'm Saurabh Kumar Jha 👋</b></h1>
