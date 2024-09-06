@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-saurabh-two.vercel.app/](https://portfolio-saurabh-two.vercel.app/)
 
-- 💬 Ask me about **ReactJs, NodeJs, PHP**
+- 💬 Ask me about **ReactJs, NodeJs, PHP, Linux, MongoDB, Data structures and Algorithms**
 
 - 📫 How to reach me **saurabhkumarjha416@gmail.com**
 
