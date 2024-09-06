@@ -117,7 +117,7 @@
     &nbsp;
     <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=saurabhkumar171&show_icons=true&locale=en" alt="GitHub Stats" />
   </p>
-  <br/><br/><br/><br/><br/><br/><br/>
+  <br/><br/>
 
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar171&" alt="GitHub Streak Stats" />
