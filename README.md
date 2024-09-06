@@ -110,16 +110,8 @@
 
 ---
 <h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhkumar171&show_icons=true&locale=en&layout=compact" alt="saurabhkumar171" /></p>
 
-<div align="center">
-  <p>
-    <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhkumar171&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    &nbsp;
-    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=saurabhkumar171&show_icons=true&locale=en" alt="GitHub Stats" />
-  </p>
-  <br/><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhkumar171&show_icons=true&locale=en" alt="saurabhkumar171" /></p>
 
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar171&" alt="GitHub Streak Stats" />
-  </p>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar171&" alt="saurabhkumar171" /></p>
