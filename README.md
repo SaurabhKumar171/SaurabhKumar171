@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar Jha</h1>
 <h3 align="center">A Software developer with over 2 years of Experience</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhkumar171" alt="saurabhkumar171" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=SaurabhKumar171&theme=light"><img src="https://github-profile-trophy.vercel.app/?username=saurabhkumar171" alt="saurabhkumar171" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-saurabh-two.vercel.app/](https://portfolio-saurabh-two.vercel.app/)
 
