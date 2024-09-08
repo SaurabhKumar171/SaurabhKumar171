@@ -1,4 +1,8 @@
-[![MasterHead](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)](https://linktr.ee/saurabhkumarjha)
+<div align="center">
+  <a href="https://linktr.ee/saurabhkumarjha">
+    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="MasterHead">
+  </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Saurabh Kumar Jha</h1>
 <h3 align="center">A Software Developer with over 2 years of Experience</h3>
