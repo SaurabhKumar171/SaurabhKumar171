@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://linktr.ee/saurabhkumarjha">
-<!--     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="MasterHead"> -->
-    <img src="https://holopin.me/saurabhkumar171" alt="MasterHead">
+    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="MasterHead">
+<!--     <img src="https://holopin.me/saurabhkumar171" alt="MasterHead"> -->
   </a>
 </div>
 
