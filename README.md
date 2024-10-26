@@ -117,7 +117,7 @@
 
 ---
 <h3 align="left">Holopin contribution badges:</h3>
-<!-- [![An image of @saurabhkumar171's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabhkumar171)](https://holopin.io/@saurabhkumar171) -->
+[![An image of @saurabhkumar171's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabhkumar171)](https://holopin.io/@saurabhkumar171)
 
 ---
 <h3 align="left">GitHub Stats:</h3>
