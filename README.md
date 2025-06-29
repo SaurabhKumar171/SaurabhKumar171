@@ -20,7 +20,7 @@
 
 - 📫 How to reach me: **saurabhkumarjha416@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/116Wjun3ZOUyks1YGNT70pEWLu0PQ2FxZ/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/197GdFIVckyp4-giMpNB7kZDnwUctZ4aP/view)
 
 ---
 
