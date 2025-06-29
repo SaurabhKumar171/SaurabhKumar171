@@ -14,7 +14,7 @@
   </a>
 </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-saurabh-two.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://saurabhdev.vercel.app/)
 
 - 💬 Ask me about **ReactJs, NodeJs, PHP, Linux, MongoDB, Data structures and Algorithms**
 
