@@ -29,12 +29,12 @@
 
 ## 🏗 Featured Architectural Work
 
-### [IMDAA Climate Data Extraction System](https://saurabhdev.vercel.app/)
+### [IMDAA Climate Data Extraction System](https://rds.ncmrwf.gov.in/)
 * **Problem:** Processing heavy data extraction requests from 60TB+ historical archives without blocking user sessions.
 * **Solution:** Built an asynchronous worker-service architecture using **FastAPI** and **RabbitMQ** to decouple heavy computation from the API layer.
 * **Key Tech:** Python, RabbitMQ, Worker Nodes, Async Processing.
 
-### [National Weather (NCMRWF) Revamp](https://saurabhdev.vercel.app/)
+### [National Weather (NCMRWF) Revamp](https://nwp.ncmrwf.gov.in/)
 * **Problem:** Visualizing 150+ real-time charts for 1,000+ daily users while maintaining database stability.
 * **Solution:** Refactored/Normalized 10+ legacy schemas and implemented **Redis caching**, reducing total backend load by **40%**.
 * **Key Tech:** Node.js, Express, PostgreSQL, Redis, Docker.
