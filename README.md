@@ -1,129 +1,59 @@
-<div align="center">
-  <a href="https://linktr.ee/saurabhkumarjha">
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="MasterHead">
-<!--     <img src="https://holopin.me/saurabhkumar171" alt="MasterHead"> -->
-  </a>
-</div>
+# Saurabh Kumar Jha
+### Senior Software Engineer | Distributed Systems & High-Throughput APIs
 
-<h1 align="center">Hi 👋, I'm Saurabh Kumar Jha</h1>
-<h3 align="center">A Software Developer with over 2 years of Experience</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saurabhkumar171)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://saurabhdev.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:saurabhkumarjha416@gmail.com)
 
+---
+
+## ⚡ Engineering Impact
+* **Scale:** Orchestrated data extraction pipelines for **60TB+ climate archives**, supporting global research centers.
+* **Optimization:** Achieved a **71% reduction in API latency** (21ms → 6ms) through PostgreSQL query tuning.
+* **Modernization:** Led the migration of legacy infrastructure (PHP 5.2 to 8.3) and frontend architecture, cutting load times from **60s to <800ms**.
+* **Reliability:** Improved system uptime by **40%** through automated server monitoring and alerting.
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Backend** | Node.js (TypeScript), Python (FastAPI, Django), PHP (8.3), Java, C++ |
+| **Distributed Systems** | RabbitMQ (Asynchronous Job Processing), Microservices, Redis Caching |
+| **Database & Storage** | PostgreSQL (Schema Normalization), MySQL, MongoDB, NetCDF Processing |
+| **DevOps & Cloud** | AWS (EC2, S3), Docker, Terraform, CI/CD (GitHub Actions), Linux (Ubuntu) |
+| **Frontend** | React.js, Next.js, Redux Toolkit, RTK Query, Tailwind CSS |
+
+---
+
+## 🏗 Featured Architectural Work
+
+### [IMDAA Climate Data Extraction System](https://saurabhdev.vercel.app/)
+* **Problem:** Processing heavy data extraction requests from 60TB+ historical archives without blocking user sessions.
+* **Solution:** Built an asynchronous worker-service architecture using **FastAPI** and **RabbitMQ** to decouple heavy computation from the API layer.
+* **Key Tech:** Python, RabbitMQ, Worker Nodes, Async Processing.
+
+### [National Weather (NCMRWF) Revamp](https://saurabhdev.vercel.app/)
+* **Problem:** Visualizing 150+ real-time charts for 1,000+ daily users while maintaining database stability.
+* **Solution:** Refactored/Normalized 10+ legacy schemas and implemented **Redis caching**, reducing total backend load by **40%**.
+* **Key Tech:** Node.js, Express, PostgreSQL, Redis, Docker.
+
+---
+
+## 📈 Technical Contributions
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhkumar171&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC" alt="Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkumar171&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" alt="Langs" width="300" />
+</p>
+
+---
+
+## 💬 Expertise Inquiries
+* Ask me about **System Design**, **Database Optimization**, or **Transitioning Monoliths to Microservices**.
+* I am currently exploring **Terraform** for Infrastructure as Code (IaC) and advanced **Distributed Data Handling**.
+
+---
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=SaurabhKumar171&theme=light">
-    <img src="https://github-profile-trophy.vercel.app/?username=saurabhkumar171" alt="GitHub Profile Trophy" />
-  </a>
+  "Building systems that survive high traffic, one optimized query at a time."
 </p>
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://saurabhdev.vercel.app/)
-
-- 💬 Ask me about **ReactJs, NodeJs, PHP, Linux, MongoDB, Data structures and Algorithms**
-
-- 📫 How to reach me: **saurabhkumarjha416@gmail.com**
-
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/197GdFIVckyp4-giMpNB7kZDnwUctZ4aP/view)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/saurabhkumar171" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/23384771" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@saurabhkumarjha416" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/saurabh1774" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/saurabhkumarjha416" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="Angular" width="40" height="40"/>
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a> 
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/svg/Flask.svg" alt="Flask" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-</p>
-
----
-<h3 align="left">Holopin contribution badges:</h3>
-<!-- [![An image of @saurabhkumar171's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabhkumar171)](https://holopin.io/@saurabhkumar171) -->
-<img src="https://holopin.me/saurabhkumar171" alt="TypeScript"/>
-
----
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhkumar171&show_icons=true&locale=en&layout=compact" alt="saurabhkumar171" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhkumar171&show_icons=true&locale=en" alt="saurabhkumar171" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar171&" alt="saurabhkumar171" /></p>
